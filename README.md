@@ -13,7 +13,8 @@ Welcome to my Power Platform & Automation portfolio. This repository contains ha
   - Automated and manual approval paths
   - Email notifications for outcomes
   - Structured logging for audit trail
-* 📁 **./finance-approval-workflow**
+* 📁 **/finance-approval-workflow**
+
 
 ---
 
