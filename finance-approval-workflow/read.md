@@ -47,12 +47,16 @@ Design and implement an automated finance approval workflow that reduces manual 
 ## 📸 Proof of Execution
 
 ### ✅ Phase 1: Auto Approval (Below Threshold)
+
+
 ![Auto Approval](success2.png)
 
 ---
 
 ### ✅ Phase 2: Approval Request Triggered
+
 ![Approval Request](rejection.png)
+
 ![Approval Request](rejection2.png)
 
 ---
