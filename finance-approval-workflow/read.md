@@ -82,4 +82,3 @@ Design and implement an automated finance approval workflow that reduces manual 
 • Implemented human-in-the-loop approvals for governance  
 • Designed structured logging for compliance and auditing  
 • Built a reusable pattern for future automation projects  
-``
