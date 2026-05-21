@@ -7,7 +7,7 @@ Design and implement an automated finance approval workflow that reduces manual 
 
 ## 🧩 Architecture Diagram
 
-![Workflow Overview](../design.png)
+![Workflow Overview](design.png)
 
 ---
 
