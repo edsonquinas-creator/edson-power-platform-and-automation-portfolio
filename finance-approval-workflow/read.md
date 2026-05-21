@@ -58,7 +58,7 @@ Design and implement an automated finance approval workflow that reduces manual 
 ---
 
 ### ✅ Phase 3: Request Rejected
-![Rejected](./screenshots/rejected3.png)
+![Rejected](rejected3.png)
 
 ---
 
