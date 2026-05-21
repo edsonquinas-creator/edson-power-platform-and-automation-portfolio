@@ -54,21 +54,12 @@ Design and implement an automated finance approval workflow that reduces manual 
 
 ### ✅ Phase 2: Approval Request Triggered
 ![Approval Request](rejection.png)
+![Approval Request](rejection2.png)
 
 ---
 
-### ✅ Phase 3: Request Approved
-![Approved](./screenshots/approved.png)
-
----
-
-### ✅ Phase 4: Request Rejected
-![Rejected](./screenshots/rejected.png)
-
----
-
-### ✅ Phase 5: Logging Output
-![Logging](./screenshots/logging.png)
+### ✅ Phase 3: Request Rejected
+![Rejected](./screenshots/rejected3.png)
 
 ---
 
