@@ -1,84 +1,77 @@
-# ⚙️ Project: Finance Approval Workflow Automation
+# 📊 Project: Service Desk Analytics Dashboard
 
 ## 🎯 Objective
-Design and implement an automated finance approval workflow that reduces manual decision-making, enforces approval rules, and ensures full traceability of all requests.
+Design and implement a dashboard to analyse service desk operations, improve visibility of workload, and identify trends in request volume, status, and resolution performance.
 
 ---
 
-## 🧩 Architecture Diagram
+## 🧩 Dashboard Overview
 
-![Workflow Overview](design.png)
+![Dashboard Overview](layout.png)
 
 ---
 
 ## 🛠️ Architecture & Execution
 
-• Created a manual trigger form capturing:
-  - Requester Name  
-  - Amount  
-  - Description  
+• Created a structured dataset representing service desk requests, including:
+  - Request ID  
+  - Created Date  
+  - Status  
+  - Device Type  
+  - Resolution Time  
 
-• Implemented threshold-based decision logic:
-  - Requests below £500 are automatically approved  
-  - Requests above £500 are routed for manual approval  
+• Loaded and modelled the dataset using Power BI (web version)
 
-• Built a conditional workflow using Power Automate:
-  - Automated branch for low-value requests  
-  - Approval branch for higher-value requests  
+• Built key KPI metrics:
+  - Total number of requests  
+  - Status distribution (open vs closed)  
 
-• Integrated an approval system:
-  - "Start and wait for approval" action  
-  - Approve / Reject decision flow  
+• Designed visualisations to analyse operational data:
+  - Donut chart for request status breakdown  
+  - Time-based chart to track request volume  
+  - Resolution time analysis to evaluate performance  
 
-• Configured response handling:
-  - Conditional logic to process approval outcome  
-  - Separate workflows for approved and rejected requests  
-
-• Implemented automated notifications:
-  - Email confirmation for auto-approved requests  
-  - Email notifications for approved and rejected outcomes  
-
-• Added structured logging for auditability:
-  - Captured requester, amount, outcome, and timestamp  
-  - Ensured traceability of all decisions  
+• Structured the dashboard layout for readability:
+  - Clear separation of KPI, status, and performance views  
+  - Consistent visual formatting and titles  
 
 ---
 
 ## 📸 Proof of Execution
 
-### ✅ Phase 1: Auto Approval (Below Threshold)
-
-
-![Auto Approval](success2.png)
+### ✅ Dashboard Overview
+![Overview](layout.png)
 
 ---
 
-### ✅ Phase 2: Approval Request Triggered
-
-![Approval Request](rejection.png)
-
-![Approval Request](rejection2.png)
+### ✅ Requests by Status
+![Status Breakdown](status.png)
 
 ---
 
-### ✅ Phase 3: Request Rejected
-![Rejected](rejection3.png)
+### ✅ Ticket Volume Over Time
+![Time Trend](time.png)
+
+---
+
+### ✅ Resolution Time Analysis
+![Resolution](volume.png)
 
 ---
 
 ## 📊 Business Impact
 
-• Reduced manual effort for low-value financial requests  
-• Ensured consistent decision-making through rule-based automation  
-• Introduced auditability and traceability into approval processes  
-• Created a scalable workflow pattern for finance operations  
+• Provides visibility into service desk workload and request volume  
+• Highlights backlog through status distribution  
+• Enables identification of trends in request activity over time  
+• Supports performance analysis through resolution time tracking  
 
 ---
 
 ## ✅ Key Takeaways
 
-• Demonstrated end-to-end workflow automation using Power Automate  
-• Applied business rules to control financial decision-making  
-• Implemented human-in-the-loop approvals for governance  
-• Designed structured logging for compliance and auditing  
-• Built a reusable pattern for future automation projects  
+• Demonstrated ability to transform raw data into meaningful insights  
+• Applied data visualisation techniques to support decision-making  
+• Built a structured, easy-to-read dashboard suitable for stakeholders  
+• Identified patterns in workload distribution and resolution performance  
+• Developed a reusable approach for analysing operational datasets  
