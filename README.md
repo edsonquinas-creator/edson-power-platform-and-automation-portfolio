@@ -32,7 +32,7 @@ Welcome to my Power Platform & Automation portfolio. This repository contains ha
 
 ---
 
-## 📊 Project 3: Month-End Reporting Automation *(Planned)*
+## 📊 Project 3: Month-End Reporting Automation
 
 **Overview:** Automates routine finance reporting tasks by collecting and processing data, triggering scheduled workflows, and generating summaries for stakeholders.
 
@@ -45,7 +45,7 @@ Welcome to my Power Platform & Automation portfolio. This repository contains ha
 
 ---
 
-## 🚨 Project 4: Cost Monitoring & Alerting Workflow *(Planned)*
+## 🚨 Project 4: Cost Monitoring & Alerting Workflow 
 
 **Overview:** Develop a monitoring and alerting solution to detect anomalies in operational or financial data and trigger automated notifications.
 
@@ -58,7 +58,7 @@ Welcome to my Power Platform & Automation portfolio. This repository contains ha
 
 ---
 
-## 🤖 Project 5: Copilot-Assisted Process Automation *(Planned)*
+## 🤖 Project 5: Copilot-Assisted Process Automation
 
 **Overview:** Explore the use of Copilot Studio to enhance finance processes by assisting with summarisation, decision-making, and workflow automation.
 
