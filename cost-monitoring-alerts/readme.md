@@ -7,7 +7,7 @@ Design and implement a monitoring workflow that automatically detects anomalies 
 
 ## 🧩 Workflow Overview
 
-![Recurrence Trigger](tree.png)
+![Recurrence Trigger](overview.png)
 
 ---
 
