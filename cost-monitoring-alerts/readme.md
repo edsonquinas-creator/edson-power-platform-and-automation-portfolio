@@ -37,17 +37,17 @@ Design and implement a monitoring workflow that automatically detects anomalies 
 ## 📸 Proof of Execution
 
 ### ✅ Workflow Overview
-overview.png
+![Recurrence Trigger](overview.png)
 
 ---
 
 ### ✅ Condition Logic
-condition.png
+![Recurrence Trigger](condition.png)
 
 ---
 
 ### ✅ Alert Notification (Email Output)
-email.png
+![Recurrence Trigger](email.png)
 
 ---
 
