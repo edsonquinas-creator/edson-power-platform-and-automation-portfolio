@@ -26,7 +26,7 @@ Welcome to my Power Platform & Automation portfolio. This repository contains ha
   - Scheduled workflow execution
   - Automated data processing
   - Reporting and distribution
-* 📁 **./month-end-reporting**
+* 📁 **[View Project Details & Proof](./finance-approval-workflow)**
 
 ---
 
