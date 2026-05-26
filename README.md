@@ -57,17 +57,3 @@ Welcome to my Power Platform & Automation portfolio. This repository contains ha
 * 📁 **[View Project Details & Proof](./cost-monitoring-alerts)**
 
 ---
-
-## 🤖 Project 5: Copilot-Assisted Process Automation
-
-**Overview:** Explore the use of Copilot Studio to enhance finance processes by assisting with summarisation, decision-making, and workflow automation.
-
-* **Tools Used:** Copilot Studio, Power Platform  
-* **Key Features:**
-  - AI-assisted process interactions
-  - Workflow augmentation
-  - Improved user efficiency
-* 📁 **[View Project Details & Proof](./copilot-automation)**
-
----
-
