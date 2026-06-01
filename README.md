@@ -57,3 +57,16 @@ Welcome to my Power Platform & Automation portfolio. This repository contains ha
 * 📁 **[View Project Details & Proof](./cost-monitoring-alerts)**
 
 ---
+## 🚨 Project 5: Dynamic Data Routing & Exception Handling
+
+* **Overview:** Cross-reference mismatched service order dates against master regional datasets.
+
+* * **Tools Used:** Power Automate, Office 365 Outlook / Excel  
+
+* **Key Feature:**
+  - Dynamic cross-referencing between multiple datasets
+  - Proactive error prevention and exception routing
+  - Real-time string manipulation for targeted data matching
+* 📁 **[View Project Details & Proof](./cost-monitoring-alerts)**
+
+---
