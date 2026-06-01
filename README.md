@@ -67,6 +67,6 @@ Welcome to my Power Platform & Automation portfolio. This repository contains ha
   - Dynamic cross-referencing between multiple datasets
   - Proactive error prevention and exception routing
   - Real-time string manipulation for targeted data matching
-* 📁 **[View Project Details & Proof](./cost-monitoring-alerts)**
+* 📁 **[View Project Details & Proof](./dynamic-data-routing-and-exception-handling/)**
 
 ---
