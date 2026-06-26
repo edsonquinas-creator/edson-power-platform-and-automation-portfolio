@@ -1,19 +1,21 @@
-# 📊 Power Platform & Automation Portfolio - Edson Quinas
+# 📊 Automation, Workflow & Serverless Visualization Portfolio
+**Edson Quinas | Cloud Operations Engineer**
 
-Welcome to my Power Platform & Automation portfolio. This repository contains hands-on projects demonstrating workflow automation, data analysis, and process improvement, with a focus on finance and operational efficiency.
+Welcome to my operations portfolio. This repository contains hands-on projects demonstrating how I solve complex business problems through automated workflows, custom serverless visualization tools, and zero-cost infrastructure data engineering.
 
 ---
 
 ## 📊 Project 1: Service Desk Analytics Dashboard
 
-**Overview:** Designed and built a dashboard to analyse service desk operations, providing visibility into request volume, status distribution, and resolution performance. The dashboard enables better understanding of workload trends and supports data-driven decision-making.
+**Overview:** Architected a "zero-compute-cost" operational dashboard to visualize live engineering SLA volumes, geographical ticket distributions, and Tech Courier dependencies. Built purely on the client-side to eliminate backend hosting and database costs.
 
-* **Tools Used:** Power BI (Web), Excel  
+* **Tools Used:** Power BI (Web), Excel, JavaScript (ES6+), D3.js, Chart.js, HTML5/CSS, LocalForage (IndexedDB), TopoJSON
 * **Key Features:**
   - Total request tracking (KPI)
-  - Status distribution (open vs closed requests)
+  - Zero-Cost Architecture: Ingests raw CSV exports entirely in the browser memory using IndexedDB, bypassing standard local storage limits.
   - Ticket volume trends over time
-  - Resolution time analysis for performance insights
+  - Geographical Density Mapping: Interactive UK topology map rendering scalable volume nodes via `d3.geoMercator`.
+📁 [View Project Details & Live Code]
 * 📁 **[View Project Details & Proof](./service-desk-analytics-dashboard)**
 
 ---
