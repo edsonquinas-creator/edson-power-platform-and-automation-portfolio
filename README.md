@@ -5,7 +5,7 @@ Welcome to my operations portfolio. This repository contains hands-on projects d
 
 ---
 
-## 📊 Project 1: Service Desk Analytics Dashboard
+## 📊 Project 1: Engineering Visits - Serverless Visualization Dashboard
 
 **Overview:** Architected a "zero-compute-cost" operational dashboard to visualize live engineering SLA volumes, geographical ticket distributions, and Tech Courier dependencies. Built purely on the client-side to eliminate backend hosting and database costs.
 
