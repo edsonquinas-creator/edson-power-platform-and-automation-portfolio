@@ -15,7 +15,7 @@ Welcome to my operations portfolio. This repository contains hands-on projects d
   - Zero-Cost Architecture: Ingests raw CSV exports entirely in the browser memory using IndexedDB, bypassing standard local storage limits.
   - Ticket volume trends over time
   - Geographical Density Mapping: Interactive UK topology map rendering scalable volume nodes.
-* 📁 **[View Project Details & Proof](./service-desk-analytics-dashboard)**
+* 📁 **[View Project Details & Proof](./engineering-visits-serverless-visualization-dashboard)**
 
 ---
 
