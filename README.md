@@ -14,7 +14,7 @@ Welcome to my operations portfolio. This repository contains hands-on projects d
   - Total request tracking (KPI)
   - Zero-Cost Architecture: Ingests raw CSV exports entirely in the browser memory using IndexedDB, bypassing standard local storage limits.
   - Ticket volume trends over time
-  - Geographical Density Mapping: Interactive UK topology map rendering scalable volume nodes via `d3.geoMercator`.
+  - Geographical Density Mapping: Interactive UK topology map rendering scalable volume nodes.
 * 📁 **[View Project Details & Proof](./service-desk-analytics-dashboard)**
 
 ---
