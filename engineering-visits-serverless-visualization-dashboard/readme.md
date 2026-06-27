@@ -7,7 +7,7 @@ Design and engineer a "zero-compute-cost" operational dashboard to visualize liv
 ---
 
 ### 🧩 Dashboard Overview
-# (Note: Sensitive PII, Request IDs, and specific problem codes have been redacted to ensure strict BPSS compliance.)
+(Note: Sensitive PII, Request IDs, and specific problem codes have been redacted to ensure strict BPSS compliance.)
 ![Overview](overview.png)
 
 
