@@ -11,22 +11,34 @@ Design and engineer a "zero-compute-cost" operational dashboard to visualize liv
 ![Overview](overview.png)
 
 
-### 🛠️ Architecture & Execution
-Data Ingestion & Storage (Client-Side)
+🛠️ Architecture & Execution
+• Engineered a resilient client-side data ingestion and storage pipeline:
 
-PapaParse: Implemented to parse raw CSV exports natively within the browser, utilizing strict try...catch loops to safely bypass corrupted text strings and malformed dates.
+Utilised PapaParse to natively parse raw CSV exports directly within the browser
 
-IndexedDB (LocalForage): Replaced standard browser local storage with IndexedDB to handle large datasets seamlessly, bypassing the strict 5MB browser storage quota and allowing asynchronous data loading.
+Implemented IndexedDB (via LocalForage) to bypass strict 5MB browser quotas and handle massive datasets asynchronously
 
-Smart Merge Deduplication: Designed a custom data reconciliation algorithm using JavaScript Map objects. It dynamically identifies duplicate Request IDs (or generates ghost IDs using Date/Engineer/Site) and intelligently merges them to prevent reporting duplication.
+Built strict try...catch loops to safely intercept corrupted strings and malformed dates without crashing the UI
 
-Interactive Filtering & Visualizations
+• Developed a custom "Smart Merge" deduplication algorithm:
 
-Dynamic Date Filtering: Integrated Flatpickr to scan the aggregated dataset and dynamically block out (disable) dates with no available data, ensuring users can only query valid operational windows.
+Leveraged JavaScript Map objects to actively reconcile ticket lifecycles and prevent reporting duplication
 
-Chart.js: Built modular, theme-responsive visualizations including Doughnut charts (Area Profiles), Stacked Horizontal Bars (Engineer Load), and Contextual Trend Lines.
+Dynamically isolated and matched standard Request IDs across multiple CSV uploads
 
-D3.js & TopoJSON: Engineered an interactive UK geographical density map utilizing d3.geoMercator() projections to dynamically render SVG volume nodes based on specific coordinates.
+Generated fallback "ghost IDs" (combining Date, Engineer, and Site) to safely process legacy rows missing primary keys
+
+• Built modular, theme-responsive visualisations to map operational data:
+
+Engineered an interactive UK geographical density map using D3.js and TopoJSON (d3.geoMercator()) to dynamically render SVG volume nodes based on coordinates
+
+Deployed Chart.js to map Area Profiles (Doughnut), Engineer Load (Stacked Bars), and Contextual Trend Lines
+
+• Designed a dynamic front-end filtering system:
+
+Integrated Flatpickr to scan the aggregated dataset and automatically disable dates with no available data
+
+Locked navigation to ensure users can only query valid, active operational windows
 
 ---
 
