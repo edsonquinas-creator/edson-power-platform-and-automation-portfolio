@@ -19,7 +19,19 @@ Welcome to my operations portfolio. This repository contains hands-on projects d
 
 ---
 
-## 📊 Project 2: Engineering Visits - Serverless Visualization Dashboard
+## 📊 Project 2: ETA Mismatch "Smart Merge" Deduplication Engine
+
+**Overview:** Engineered a custom data reconciliation dashboard to catch SLA discrepancies between Proposed Dates and ETA dates.
+**Tools Used:** JavaScript (Map Objects), PapaParse, Chart.js
+**Key Features:**
+*   **Asynchronous Reconciliation:** Custom "Smart Merge" algorithm utilizing JS Maps to dynamically reduplicate records and update historical ticket statuses in real-time.
+*   **Error-Proof Data Parsing:** Strict `try...catch` ingestion loops to safely bypass corrupted text strings and malformed dates without crashing the UI.
+*   **Actionable KPI Generation:** Live percentage calculators for timeout ratios and daily average mismatch alerts.
+* 📁 **[View Project Details & Proof](./month-end-reporting)**
+
+---
+
+## 📊 Project 3: Engineering Visits - Serverless Visualization Dashboard
 
 **Overview:** Architected a "zero-compute-cost" operational dashboard to visualize live engineering SLA volumes, geographical ticket distributions, and Tech Courier dependencies. Built purely on the client-side to eliminate backend hosting and database costs.
 
@@ -33,30 +45,7 @@ Welcome to my operations portfolio. This repository contains hands-on projects d
 
 ---
 
-## 📊 Project 3: ETA Mismatch "Smart Merge" Deduplication Engine
-
-**Overview:** Engineered a custom data reconciliation dashboard to catch SLA discrepancies between Proposed Dates and ETA dates.
-**Tools Used:** JavaScript (Map Objects), PapaParse, Chart.js
-**Key Features:**
-*   **Asynchronous Reconciliation:** Custom "Smart Merge" algorithm utilizing JS Maps to dynamically reduplicate records and update historical ticket statuses in real-time.
-*   **Error-Proof Data Parsing:** Strict `try...catch` ingestion loops to safely bypass corrupted text strings and malformed dates without crashing the UI.
-*   **Actionable KPI Generation:** Live percentage calculators for timeout ratios and daily average mismatch alerts.
-* 📁 **[View Project Details & Proof](./month-end-reporting)**
-
----
-
-## 🚨 Project 4: Service Desk Analytics Dashboard
-**Overview:** Designed and built a business intelligence dashboard to analyze service desk operations, providing executive visibility into request volume, status distribution, and engineering resolution performance.
-**Tools Used:** Power BI, Excel
-**Key Features:**
-*   Total request tracking KPIs and open vs. closed distribution metrics.
-*   Ticket volume trend analysis over weekly and monthly periods.
-*   Resolution time analysis to identify operational bottlenecks.
-* 📁 **[View Project Details & Proof](./cost-monitoring-alerts)**
-
----
-
-## ⚙️ Project 5: Finance Approval Workflow Automation
+## ⚙️ Project 4: Finance Approval Workflow Automation
 
 **Overview:** Built an automated finance approval workflow using Power Automate that routes requests based on thresholds, sends notifications, and logs outcomes to ensure consistent and auditable decision-making.
 
