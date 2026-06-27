@@ -52,6 +52,7 @@ Contextual line chart isolating internal Engineering Volume against external Tec
 
 ### ✅ Dynamic Date Filtering
 ![calendar](calendar.png)
+
 Flatpickr implementation mapping specifically to ingested dataset dates, automatically restricting selection to valid operational days.
 
 ---
