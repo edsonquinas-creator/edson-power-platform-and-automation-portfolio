@@ -1,14 +1,15 @@
-⚙️ Project: Automated Data Routing & Exception Handling
+⚙️ Project: Engineering Visits Serverless Visualization Dashboard
+
 
 ## 🎯 Objective
 Design and engineer a "zero-compute-cost" operational dashboard to visualize live engineering SLA volumes, geographical ticket distributions, and Tech Courier dependencies. The solution required a purely client-side architecture to process large datasets without incurring backend hosting or database infrastructure costs.
 
-🧩 Dashboard Overview
-### ✅ Dashboard Overview
+
+### 🧩 Dashboard Overview
 ![Overview](overview.png)
 (Note: Sensitive PII, Request IDs, and specific problem codes have been redacted to ensure strict BPSS compliance.)
 
-🛠️ Architecture & Execution
+### 🛠️ Architecture & Execution
 Data Ingestion & Storage (Client-Side)
 
 PapaParse: Implemented to parse raw CSV exports natively within the browser, utilizing strict try...catch loops to safely bypass corrupted text strings and malformed dates.
