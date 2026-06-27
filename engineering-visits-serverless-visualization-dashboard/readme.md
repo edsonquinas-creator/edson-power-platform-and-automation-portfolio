@@ -1,4 +1,6 @@
-🎯 Objective
+⚙️ Project: Automated Data Routing & Exception Handling
+
+## 🎯 Objective
 Design and engineer a "zero-compute-cost" operational dashboard to visualize live engineering SLA volumes, geographical ticket distributions, and Tech Courier dependencies. The solution required a purely client-side architecture to process large datasets without incurring backend hosting or database infrastructure costs.
 
 🧩 Dashboard Overview
