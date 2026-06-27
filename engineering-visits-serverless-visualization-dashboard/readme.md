@@ -38,19 +38,22 @@ Design and engineer a "zero-compute-cost" operational dashboard to visualize liv
 
 ### ✅ KPI Metrics & Volume Tracking
 ![data](data.png)
-Interactive KPI cards displaying Total Volume, Top 10 Engineer %, Average Daily Calls, and Top 10 Sites %. Designed with CSS hover transitions for dynamic UI response.
+Interactive KPI cards displaying Total Volume, Top 10 Engineer %, Average Daily Calls, and Top 10 Sites %.
+Designed with CSS hover transitions for dynamic UI response.
 
 ---
  
 ### ✅ Geographical Density & Area Profiling
 ![data2](data2.png)
-D3.js UK topology map with custom hover states raising specific volume nodes to the front of the Z-index. Rendered alongside Top 10 Address bar charts and Area Doughnut charts.
+D3.js UK topology map with custom hover states raising specific volume nodes to the front of the Z-index. 
+Rendered alongside Top 10 Address bar charts and Area Doughnut charts.
 
 ---
 
 ### ✅ Volume Trend vs. Tech Courier Analysis
 ![data3](data3.png)
-Contextual line chart isolating internal Engineering Volume against external Tech Courier usage. Includes Top 10 Engineers profiling (engineer names actively redacted for security compliance).
+Contextual line chart isolating internal Engineering Volume against external Tech Courier usage. 
+Includes Top 10 Engineers profiling (engineer names actively redacted for security compliance).
 
 ---
 
