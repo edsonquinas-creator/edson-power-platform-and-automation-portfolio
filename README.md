@@ -27,7 +27,7 @@ Welcome to my operations portfolio. This repository contains hands-on projects d
 *   **Asynchronous Reconciliation:** Custom "Smart Merge" algorithm utilizing JS Maps to dynamically reduplicate records and update historical ticket statuses in real-time.
 *   **Error-Proof Data Parsing:** Strict `try...catch` ingestion loops to safely bypass corrupted text strings and malformed dates without crashing the UI.
 *   **Actionable KPI Generation:** Live percentage calculators for timeout ratios and daily average mismatch alerts.
-* 📁 **[View Project Details & Proof](./month-end-reporting)**
+* 📁 **[View Project Details & Proof](./eta-mismatch)**
 
 ---
 
