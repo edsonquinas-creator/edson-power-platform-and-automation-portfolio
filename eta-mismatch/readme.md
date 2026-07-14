@@ -9,7 +9,7 @@ To identify, monitor, and resolve discrepancies between forecasted Estimated Tim
 A lightweight, responsive HTML-based interface designed for quick diagnostic views. The dashboard highlights critical ETA mismatches using visual indicators (e.g., color-coded variance thresholds) and allows users to filter discrepancies by severity, date, or specific categories. It transforms raw timestamp data into an easily readable format for operational review.
 
 ---
-## ⚒️ Arquitectura and Execution
+## ⚒️ Arquitecture and Execution
 
 • Frontend Interface: 
   - Built utilizing HTML, CSS, and lightweight JavaScript to ensure a fast, responsive user experience without heavy framework dependencies.
