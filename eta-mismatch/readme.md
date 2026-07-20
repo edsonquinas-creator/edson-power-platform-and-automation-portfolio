@@ -58,7 +58,7 @@ A lightweight, responsive HTML-based interface designed for quick diagnostic vie
 ---
 
 ### ✅ list
-![map](map.png)
+![map](list.png)
 
 ---
 
