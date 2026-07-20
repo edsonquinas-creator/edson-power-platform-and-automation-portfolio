@@ -34,31 +34,38 @@ A lightweight, responsive HTML-based interface designed for quick diagnostic vie
 
 ### ✅ KPI Cards
 ![KPI Cards](kpi.png)
+Interactive KPI cards displaying % of mismatches, Total reminders, Average daily reminders, and Average of reminders that have been timed out.
+Designed with CSS hover transitions for dynamic UI response.
 
 ---
 
 ### ✅ Calendar
 ![Calendar](calendar.png)
+Flatpickr implementation mapping specifically to ingested dataset dates, automatically restricting selection to valid operational days.
 
 ---
 
 ### ✅ Charts
 ![cHARTS](charts.png)
+Pie chart displaying reminder Volume sent per area and a Column Chart to showcase the top 5 affected area and its volume
 
 ---
 
 ### ✅ Charts 2
 ![Charts2](charts2.png)
+Line chart to demonstrate the trend of Acknlowledged vs Timed Out responses and a Bar chart to display the top responsible people.
 
 ---
 
 ### ✅ map
 ![map](map.png)
+D3.js UK topology map with custom hover states raising specific volume nodes to the front of the Z-index.
 
 ---
 
 ### ✅ list
 ![map](list.png)
+Paginated, live-searchable registry table. Automatically excludes Tech Courier metrics to preserve internal engineering math accuracy (PII and internal Request IDs redacted).
 
 ---
 
