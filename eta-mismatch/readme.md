@@ -71,9 +71,12 @@ Paginated, live-searchable registry table. Automatically excludes Tech Courier m
 ---
 
 ## 📊 Business Impact
-Operational Visibility: Eliminated blind spots regarding timing discrepancies, allowing teams to proactively address delays rather than reacting to them post-failure.
-Process Efficiency: Replaced manual timestamp cross-referencing with an automated, at-a-glance dashboard, saving significant administrative time per week.
-Data Accuracy: Improved the integrity of reporting by establishing a single source of truth for tracking expected versus actual performance metrics.
+• Operational Visibility: 
+ - Eliminated blind spots regarding timing discrepancies, allowing teams to proactively address delays rather than reacting to them post-failure.
+• Process Efficiency:
+  - Replaced manual timestamp cross-referencing with an automated, at-a-glance dashboard, saving significant administrative time per week.
+• Data Accuracy:
+  - Improved the integrity of reporting by establishing a single source of truth for tracking expected versus actual performance metrics.
 
 ---
 
