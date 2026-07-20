@@ -57,13 +57,14 @@ Line chart to demonstrate the trend of Acknlowledged vs Timed Out responses and 
 
 ---
 
-### ✅ map
+### ✅ Map
 ![map](map.png)
+
 D3.js UK topology map with custom hover states raising specific volume nodes to the front of the Z-index.
 
 ---
 
-### ✅ list
+### ✅ List
 ![map](list.png)
 Paginated, live-searchable registry table. Automatically excludes Tech Courier metrics to preserve internal engineering math accuracy (PII and internal Request IDs redacted).
 
