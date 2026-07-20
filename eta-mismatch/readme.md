@@ -25,13 +25,43 @@ A lightweight, responsive HTML-based interface designed for quick diagnostic vie
 
 ---
 ## 📷 Proof of Execution
-(Insert Picture 1: Wide shot of the main HTML dashboard interface showing the overall layout)
-(Insert Picture 2: Close-up of a flagged ETA mismatch with conditional formatting)
-(Insert Picture 3: View of the filtering or sorting mechanism in action)
-(Insert Picture 4: Code snippet showcasing the logic used to calculate the time delta)
-(Insert Picture 5 - Optional: View of the mobile/responsive scaling of the dashboard)
+
+
+### ✅ Dashboard Overview
+![Workflow Overview](overview.png)
 
 ---
+
+### ✅ KPI Cards
+![KPI Cards](kpi.png)
+
+---
+
+### ✅ Calendar
+![Calendar](calendar.png)
+
+---
+
+### ✅ Charts
+![cHARTS](charts.png)
+
+---
+
+### ✅ Charts 2
+![Charts2](charts2.png)
+
+---
+
+### ✅ map
+![map](map.png)
+
+---
+
+### ✅ list
+![map](map.png)
+
+---
+
 ## 📊 Business Impact
 Operational Visibility: Eliminated blind spots regarding timing discrepancies, allowing teams to proactively address delays rather than reacting to them post-failure.
 Process Efficiency: Replaced manual timestamp cross-referencing with an automated, at-a-glance dashboard, saving significant administrative time per week.
